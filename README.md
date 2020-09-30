@@ -1,4 +1,4 @@
-# bmi_calculator made by flutter
+# Bmi Calculator made by Flutter
 
 A new Flutter application.
 
